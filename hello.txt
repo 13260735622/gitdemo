@@ -1,5 +1,4 @@
 aaaaaaaaaaa 222222222
 bbbbbbbbbb 333333333
-<<<<<<< HEAD
 cccccccccccc master-test 
 ddddddddd  hot-fix test
